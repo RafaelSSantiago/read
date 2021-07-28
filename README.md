@@ -22,7 +22,7 @@
 
 ![imagem tela 1](https://i.imgur.com/qR99CF6.png)
 
-SPA desenvolvida em Vuejs, conectada a Api desenvolvida com spring boot, utilizando banco de dados Postegresql
+SPA desenvolvida em VueJS, conectada à API desenvolvida com Spring Boot, utilizando SGBD PostegreSQL
 
 ### Construido com
 
