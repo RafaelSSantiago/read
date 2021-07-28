@@ -37,3 +37,4 @@ SPA desenvolvida em VueJS, conectada à API desenvolvida com Spring Boot, utiliz
 * Depois de bucar por um produto limpe o campo pesquise e clique em pesquisar para volta a listagem de todos os produtos
 * Ao adicionar um novo produto na tabela, recarregue a página para obter a listagem atualizada
 * após excluir um produto recarregue a página
+* você pode excluir vários produtos de uma só vez, os selecionando e clicando no botão excluir
